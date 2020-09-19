@@ -9,5 +9,5 @@ cask 'path_of_exile' do
 
   depends_on macos: '>= :catalina'
 
-  app 'Path of Exile/Path of Exile.app'
+  suite 'Path of Exile'
 end
